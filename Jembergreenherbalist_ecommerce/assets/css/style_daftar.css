@@ -1,0 +1,8 @@
+.container {
+  width: 30%;
+  margin-top: 3%;
+  box-shadow: 0 3px 20px grey;
+  padding: 30px;
+  background-color: #fff;
+}
+
